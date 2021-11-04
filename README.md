@@ -121,7 +121,7 @@ We will also do our best to give adequete feedback and explanations as to why so
 
 Some general suggestions for getting your pull request approved:
 
-* Provide a brief explanation for your changes. If a 
+* Provide a brief explanation for your changes along with the type of change you are submitting.
 * Try to use widely available equipment and ingredients as much as possible.
 * The more detail that is supplied about the process and sourcing, the better.
 * Do not submit recipes that are not your own or that you do not have permission to share.
@@ -146,7 +146,7 @@ Distributed under the GPL-3.0 License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - OpenSourceEats@protonmail.com
+OpenSourceEats@protonmail.com
 
 Project Link: [https://github.com/OpenSourceEats/OpenSourceEats](https://github.com/OpenSourceEats/OpenSourceEats)
 
@@ -161,6 +161,7 @@ Special thanks to the ever growing list of people and services that help make th
 
 * [Choose an Open Source License](https://choosealicense.com)
 * [Best-README-Template](https://github.com/othneildrew/Best-README-Template)
+* [The Open Source Initiative for my shameless rip-off of their logo](https://opensource.org/)
 * [My wife, who somehow continues to support my harebrained ideas](https://giphy.com/gifs/wife-borat-my-t6cn3lRhDZtBjdAjKN)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
