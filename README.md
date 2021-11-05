@@ -63,7 +63,7 @@ Here's some examples:
 * An ingredient in your favorite recipe isn't readily available where you live. By using our ingrediant alternatives database, you can find suitable options to substitute.
 * You know of a better ingredient/source/process to use in the creation of a product. By submitting a pull request to update the recipe, your improvement becomes the standard for that product once approved.
 
-While results can obviously vary by technique, equipment and quality of ingredients, we hope that by making our recipes readily available can allow anyone to enjoy what we make, whether we actaully make it or not. 
+While results can obviously vary by technique, equipment and quality of ingredients, we hope that by making our recipes readily available can allow anyone to enjoy what we make, whether we actually make it or not. 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
